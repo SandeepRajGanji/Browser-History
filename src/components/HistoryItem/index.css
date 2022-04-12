@@ -23,7 +23,7 @@
 .title {
   font-size: 16px;
   margin-left: 10px;
-  margin-right: 10px;
+  margin-right: 10px; font-weight:600;
 }
 @media screen and (max-width: 767px) {
   .time-accessed {
